@@ -58,3 +58,4 @@ D:\documentos\ingenieria informatica\MiProyectos\Practicando.NET\obj\Debug\net8.
 D:\documentos\ingenieria informatica\MiProyectos\Practicando.NET\obj\Debug\net8.0\NehuenOrg.pdb
 D:\documentos\ingenieria informatica\MiProyectos\Practicando.NET\obj\Debug\net8.0\NehuenOrg.genruntimeconfig.cache
 D:\documentos\ingenieria informatica\MiProyectos\Practicando.NET\obj\Debug\net8.0\ref\NehuenOrg.dll
+D:\documentos\ingenieria informatica\MiProyectos\Practicando.NET\obj\Debug\net8.0\NehuenOrg.sourcelink.json

@@ -1,4 +1,6 @@
-﻿namespace NehuenOrg.Models
+﻿using Microsoft.AspNetCore.Mvc.ActionConstraints;
+
+namespace NehuenOrg.Models
 {
     public class CategoriesRepository
     {
@@ -34,11 +36,11 @@
             return null;
         }
 
-        public static void UpdateCategory(int CategoryId, Category category)
+        public static void UpdateCategory(int categoriId, Category category)
         {
-            if (CategoryId != category.CategoryId) return;
+            if (categoriId != category.CategoryId) return;
 
-            var categoryToUpdate = GetCategoryById(CategoryId);
+            var categoryToUpdate = _categories.FirstOrDefault(x=> x.CategoryId == categoriId);
             if(categoryToUpdate != null)
             {
                 categoryToUpdate.CategoryName = category.CategoryName;
@@ -54,5 +56,7 @@
                 _categories.Remove(category);
             }
         }
+
+        
     }
 }

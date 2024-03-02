@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NehuenOrg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c36681c9aa52f4f9dbc70d39400180c8f75a999")]
 [assembly: System.Reflection.AssemblyProductAttribute("NehuenOrg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NehuenOrg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

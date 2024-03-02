@@ -18,12 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\documentos\ingenieria informatica\MiProyectos\Practicando.NET
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/documentos/ingenieria informatica/MiProyectos/Practicando.NET/Views/Categories/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/documentos/ingenieria informatica/MiProyectos/Practicando.NET/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/documentos/ingenieria informatica/MiProyectos/Practicando.NET/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/documentos/ingenieria informatica/MiProyectos/Practicando.NET/Views/Categories/_Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xfQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/documentos/ingenieria informatica/MiProyectos/Practicando.NET/Views/Home/Index.cshtml]
